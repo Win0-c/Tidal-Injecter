@@ -6,9 +6,9 @@ A mod injector for **Animal Company** that enables TypeScript mod support and un
 
 ## Features
 
-- **TypeScript Injection** — Write and inject mods in TypeScript; no need to wrestle with raw game files
-- **Steam × Quest Crossplay** — Play with friends across platforms that the game officially keeps separate
-- **Easy Setup** — Minimal configuration required to get up and running
+- **TypeScript Injection** - Write and inject mods in TypeScript; no need to wrestle with raw game files
+- **Steam × Quest Crossplay** - Play with friends across platforms that the game officially keeps separate
+- **Easy Setup** - Minimal configuration required to get up and running
 
 ---
 
@@ -60,7 +60,7 @@ export default function myMod(injector: Injector) {
 
 ## Disclaimer
 
-This project is an **unofficial, community-made tool** and is not affiliated with or endorsed by the developers of Animal Company. Use at your own risk. Crossplay is achieved by bridging network layers not intended for cross-platform use — stability may vary.
+This project is an **unofficial, community-made tool** and is not affiliated with or endorsed by the developers of Animal Company. Use at your own risk. Crossplay is achieved by bridging network layers not intended for cross-platform use, stability may vary.
 
 ---
 
